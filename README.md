@@ -1,6 +1,6 @@
 # 🎬 MovieShop
 
-**MovieShop** is a personal pet project — a simple console-based movie disc shop application written in **C/C++**.  
+**MovieShop** is a personal pet project - a simple console-based movie disc shop application written in **C/C++**.  
 The program allows users to **search**, **sort**, and **view** movies with details such as title, director, genre, rating, and disk price.  
 It features a retro **ASCII art interface** for a fun visual experience in the terminal.
 
